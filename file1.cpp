@@ -8,3 +8,4 @@ This is the first file in repository at remote main branch
   Changed in feature-branch-name --added now
   Merged at 4.50 pm Aug 14 Sun.
   Updated in rebase feature branch
+  Updated in rebase feature branch - second update
